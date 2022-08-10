@@ -1,0 +1,42 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height:100%
+    
+  }
+  .header
+  {
+    
+        position: fixed;
+        bottom: 0;
+        background: rgba(224, 228, 216, 0.5);
+        color: rgb(65, 228, 240);
+        width: 100%;
+        text-decoration: none;
+        padding:20px;
+        display: inline;
+        
+     
+  }
+  .ul{
+    list-style: none;
+    
+
+    
+  }
+  li{
+   
+    font-size: 22px;
+    padding:240px;
+    display: inline;
+    color:black;
+    
+
+
+  }
+  .ul{
+    
+  }
+ 

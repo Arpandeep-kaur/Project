@@ -1,0 +1,18 @@
+h1{
+    text-align: right;
+    
+}
+img{
+    width:32px;
+
+}
+body{
+    background:url('bg2.jpg');
+    
+}
+.main{
+text-align: center;
+font-size: 20px;
+color:black;
+background: rgba(224, 228, 216, 0.5);
+}
